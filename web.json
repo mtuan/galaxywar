@@ -1,0 +1,6 @@
+{
+  "game-web-control": {
+    "enabled": true,
+    "lock-time": 1.5
+  }
+}
