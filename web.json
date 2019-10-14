@@ -1,6 +1,4 @@
 {
-  "game-web-control": {
-    "enabled": true,
-    "lock-time": 1.5
-  }
+  "game-web-control": true,
+  "game-web-control-lock-time": 1.5
 }
