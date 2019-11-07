@@ -1,16 +1,5 @@
 {
   "game-web-control": true,
   "game-web-control-lock-time": 0,
-  "game-web-control-drag-time": 0.25,
-  "tasks": {
-    "invite": {
-      "require": { "friend": 2 },
-      "reward": {
-	"gold": 10000,
-	"daily-bonus-rate": { "type": "set", "value": 2 },
-	"free-revive": 5
-      },
-      "timeout": [120, 30, 10]
-    }
-  }
+  "game-web-control-drag-time": 0.25
 }
