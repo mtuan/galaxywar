@@ -1,4 +1,5 @@
 {
+  "log-login": false,
   "game-web-control": true,
   "game-web-control-lock-time": 0,
   "game-web-control-drag-time": 0.25
